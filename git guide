@@ -1,0 +1,24 @@
+📝 Sammanfattning av hur jag klonade ner projektet till VS Code:
+
+1🔗 Kopiera GitHub-URL:
+Jag började med att gå till GitHub-repositoryt och kopierade URL
+genom att klicka på den gröna knappen "Code".
+
+2🖥️ Öppna terminalen i VS Code:
+Jag öppnade Visual Studio Code och startade terminalen genom att välja Terminal > New Terminal.
+
+3📂 Navigera till rätt mapp:
+I terminalen bytte jag till mappen C:\Users\Bintd\OneDrive\Skrivbord\tobias Test röd med kommandot:
+exp cd "C:\Users\Bintd\OneDrive\Skrivbord\tobias Test röd"
+
+4📥 Klona repositoryt:
+Jag klonade projektet från GitHub till min dator genom att skriva:
+git clone https://github.com/andreleskinen/Matspara.git
+Detta laddade ner projektet till mappen tobias Test röd
+
+5📁 Navigera till projektmappen:
+När kloningen var klar, navigerade jag in i den nya mappen Matspara
+cd Matspara
+
+6💻 Öppna projektet i VS Code:
+code .
